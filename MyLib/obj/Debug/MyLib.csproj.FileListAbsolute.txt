@@ -1,0 +1,5 @@
+C:\Users\Dasha\source\repos\lab18\MyLib\bin\Debug\MyLib.dll
+C:\Users\Dasha\source\repos\lab18\MyLib\bin\Debug\MyLib.pdb
+C:\Users\Dasha\source\repos\lab18\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\lab18\MyLib\obj\Debug\MyLib.dll
+C:\Users\Dasha\source\repos\lab18\MyLib\obj\Debug\MyLib.pdb
